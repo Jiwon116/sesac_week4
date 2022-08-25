@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">snakeGame</string>
+    <string name="tutorial">뱀이 먹이를 먹을 수 있도록 상하좌우로\n움직여주세요!\n먹이를 먹으면 점수가 10점씩 늘어나고,\n뱀의 몸도 점점 늘어납니다.\n뱀은 자기 자신과 부딪히면 죽게되니\n조심해주세요😢</string>
+    <string name="game_score">SCORE : %s</string>
+</resources>
